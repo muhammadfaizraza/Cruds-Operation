@@ -1,0 +1,13 @@
+{
+  "students": [
+    {
+      "id": 781,
+      "studentId": 42,
+      "name": "nAME",
+      "description": "DASD",
+      "class": "1",
+      "section": "A",
+      "isActive": true
+    }
+  ]
+}
